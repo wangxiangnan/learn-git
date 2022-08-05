@@ -5,4 +5,5 @@ learn git
 模拟修改提交
 
 fixed: 修复了XXX问题。
+
 git push --set-upstream origin master（省略形式为：git push -u origin master
